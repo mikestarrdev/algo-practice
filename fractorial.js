@@ -17,8 +17,8 @@ function factorial(num) {
   return result;
 }
 
-console.log(factorial(1));
-console.log(factorial(2));
-console.log(factorial(4));
-console.log(factorial(7));
-console.log(factorial(17));
+// console.log(factorial(1));
+// console.log(factorial(2));
+// console.log(factorial(4));
+// console.log(factorial(7));
+// console.log(factorial(17));
